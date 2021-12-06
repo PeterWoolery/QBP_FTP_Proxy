@@ -1,0 +1,16 @@
+# Configuration of FTP credentials
+
+password:
+  'supersecretpassword'
+
+account:
+  '123456'
+
+host:
+  'eftp.qbp.com'
+
+contact:
+  email:
+    'name@host.com'
+  name:
+    'Test Admin'
